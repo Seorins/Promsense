@@ -8,6 +8,7 @@ Midjourney와 같은 AI 이미지 생성기는 **영어 프롬프트만을 허�
 
 > 🎯 현재는 웹 인터페이스 및 대화 저장 기능이 완성되어 있으며, 모델 연동은 예정 단계입니다.
 
+🔗 [Live Site](https://promsense.example.com) ← 바로 여기!
 ---
 
 ## 🚀 주요 기능

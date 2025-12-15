@@ -1,6 +1,6 @@
 # PromSense
 
-![시스템 상세](../p2.PNG)
+![시스템 상세](docs/p2.PNG)
 
 **PromSense**는 한국어 사용자도 손쉽게 고품질 AI 이미지 생성 프롬프트를 만들 수 있도록 설계된 **대화형 웹 애플리케이션**입니다.
 영어 프롬프트만을 허용하는 Midjourney와 같은 AI 이미지 생성 도구의 진입 장벽을 낮추기 위해,
@@ -13,7 +13,7 @@
 AI 모델 연동은 추후 단계로 예정되어 있습니다.
 
 * Live Site: [https://www.promsense.com](https://www.promsense.com)
-* [프로젝트 최종 보고서 (PDF)](../C4_promsense_최종.pdf)
+* [프로젝트 최종 보고서 (PDF)](docs/C4_promsense_최종.pdf)
 
 ---
 
@@ -64,7 +64,7 @@ cinematic lighting, ultra-detailed, 8K render
 본 프로젝트는 **Fine-Tuning**과 **RAG(Retrieval-Augmented Generation)** 구조를 결합하여
 이미지 생성에 최적화된 프롬프트를 생성합니다.
 
-![시스템 상세](../p1.PNG)
+![시스템 상세](docs/p1.PNG)
 
 1. Advanced Midjourney Prompt 데이터셋 기반 파인튜닝
 2. Embedding Generator를 활용한 벡터 데이터베이스 구축 (Wikipedia 연동)
@@ -79,4 +79,4 @@ cinematic lighting, ultra-detailed, 8K render
 프로젝트의 전체 설계, 모델 구조, 데이터셋 구성 및 실험 결과는
 아래 최종 보고서에서 확인할 수 있습니다.
 
-* [프로젝트 최종 보고서 (PDF)](../C4_promsense_최종.pdf)
+* [프로젝트 최종 보고서 (PDF)](docs/C4_promsense_최종.pdf)
